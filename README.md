@@ -1,1 +1,1 @@
-# Stock-Price-Prediction-via-LSTM-Networks-
+# stock_predictor
